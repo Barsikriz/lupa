@@ -1,0 +1,6 @@
+str=str(input())
+rst=''.join(reversed(str))
+if rst == str:
+    print('True')
+else:
+    print('False')
