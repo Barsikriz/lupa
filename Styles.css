@@ -1,0 +1,35 @@
+h1{
+    background:red;
+}
+.paragraph1{
+    background: blue;
+    font-size: 32pt;
+    color: green;
+}
+.paragraph2{
+    background: blue;
+    font-size: 32pt;
+    color: green;
+}
+
+.paragraph3{
+    background: blue;
+    font-size: 32pt;
+    color: green;
+}
+
+.paragraph4{
+    background: blue;
+    font-size: 32pt;
+    color: green;
+}
+.paragraph5{
+    background: wnite;
+    font-size: 24pt;
+    color: yellow;
+    text-shadow: green 2px 5px;
+    margin-left: auto;
+    margin-right: auto;
+    font-style: italic;
+}
+
